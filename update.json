@@ -1,5 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-recycler",
+	"1.18.2": {
+		"5.5.1": "initial port"
+	},
 	"1.18.1": {
 		"5.5.0": "initial port"
 	},
@@ -55,6 +58,8 @@
 		"1.4.7": "allow to separate enchantments from an enchanted book (with an option to disable it), improve russian translation"
 	},
 	"promos": {
+		"1.18.2-latest": "5.5.1",
+		"1.18.2-recommended": "5.5.1",
 		"1.18.1-latest": "5.5.0",
 		"1.18.1-recommended": "5.5.0",
 		"1.17.1-latest": "5.4.0",
